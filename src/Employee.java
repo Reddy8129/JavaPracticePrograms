@@ -9,7 +9,7 @@ class Employee
 		this.emp_id=emp_id;
 		this.name=name;
 		this.age=age;
-		this.salary=salary;	
+		this.salary=salary;
 	}
 	
 }
