@@ -1,6 +1,6 @@
 
-public class Launch2 {
-
+public class Launch2 
+{
 	public static void main(String[] args) 
 	{
 		Deer d= new Deer();

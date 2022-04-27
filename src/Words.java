@@ -16,7 +16,4 @@ public class Words
 			System.out.println(alphabets.charAt(i) +" --> " +count[i]);
 		}
 	}
-	public static void main(String[] args) {
-		countChars("Prashantha Reddy!?123"); 
-	}
 }
