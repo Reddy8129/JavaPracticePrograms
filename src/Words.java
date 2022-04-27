@@ -1,6 +1,6 @@
 public class Words 
 {
-	static void countChars(String phrase)
+	void countChars(String phrase)
 	{
 		char[] charstr= phrase.toLowerCase().toCharArray();
 		String alphabets = "abcdefghijklmnopqrstuvwxyz";
